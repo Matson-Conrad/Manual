@@ -40,9 +40,7 @@
 </p>
 
 <p align="center">
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project – customizable,
-  searchable, mobile-friendly, 40+ languages. Set up in 5 minutes.
+  Run machine learning predictive analytics with this excel plug-in.
 </p>
 
 <p align="center">
