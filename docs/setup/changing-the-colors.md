@@ -4,8 +4,7 @@ template: overrides/main.html
 
 # Changing the colors
 
-As any proper Material Design implementation, Material for MkDocs supports
-Google's original [color palette][1], which can be easily configured through 
+TEST [color palette][1], which can be easily configured through 
 `mkdocs.yml`. Furthermore, colors can be customized with a few lines of CSS to
 fit your brand's identity by using [CSS variables][2].
 
